@@ -1,5 +1,5 @@
 
-<img href="https://pratikkale.biz" src="my-gif.gif" height="250" margin="0 auto 0 auto">
+<img href="https://pratikkale.biz" src="img.png" height="250" margin="0 auto 0 auto">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github+page+!)](https://git.io/typing-svg)
 
