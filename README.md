@@ -1,17 +1,14 @@
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github+page+!)](https://git.io/typing-svg)
 <hr>
 
-<img href="https://pratikkale.biz" src="my-gif.gif">
+<img href="https://pratikkale.biz" src="my-gif.gif" height="100" align ="right">
 
 <h2><img src="https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif" height="60">  About me</h2>
 <p>
-  <a href="mailto:ppkale@mitaoe.ac.in" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pratik-kale135" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/Pratik_kale135" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://dev.to/pratik_kale" target="_blank"><img height="30" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
-  <a href="https://instagram.com/prato.grapher" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-</p>
+
 
 <img align ="right" src = "linux.png" width="250" height="250">
 
@@ -38,21 +35,9 @@
 <img src="https://img.shields.io/badge/-Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white" height="25">
 </p>
 
-<h2><img src="https://media.tenor.com/images/53c12fa1c7796563263bb5e4a34b1dfc/tenor.gif" height="20"> Latest Blog Posts</h2>  
-
-<!-- BLOG-POST-LIST:START -->
-- [The Secret GitHub Repository ! 🤫](https://dev.to/pratik_kale/the-secret-github-repository-3385)
-- [Customise Your Terminal Using Zsh & powerlevel10k](https://dev.to/pratik_kale/customise-your-terminal-using-zsh-powerlevel10k-1og5)
-<!-- BLOG-POST-LIST:END -->
-
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
 
-<h2><img src="https://media.tenor.com/images/2c67c79dca6f61769ff19a3d23e7a37f/tenor.gif" height="25"> Random Dev Joke</h2>
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
 
 
  <p align="center"> 
