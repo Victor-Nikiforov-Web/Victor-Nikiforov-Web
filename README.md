@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img href="https://pratikkale.biz" src="https://github.com/Victor-Nikiforov-Web/Victor-Nikiforov-Web/raw/main/img.png" height="350" width="80%">
+<img href="https://pratikkale.biz" src="img.png" height="350" width="80%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github+page+!)](https://git.io/typing-svg)
 </p>
@@ -33,8 +33,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-nikiforov-web&show_icons=true&theme=solarized-dark)
 [
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-nikiforov-web&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- <p align="center"> 
-  Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
-</p>   
