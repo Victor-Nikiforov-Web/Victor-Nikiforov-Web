@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github+page+!)](https://git.io/typing-svg)
 <hr>
 
-<img href="https://pratikkale.biz" src="my-gif.gif" height="200" align ="center">
+<img href="https://pratikkale.biz" src="my-gif.gif" height="200" align="center">
 
 <h2><img src="https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif" height="60">  About me</h2>
 <p>
