@@ -1,10 +1,7 @@
 
-
+<img href="https://pratikkale.biz" src="my-gif.gif" height="250" margin="0 auto 0 auto">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github+page+!)](https://git.io/typing-svg)
 <hr>
-
-<img href="https://pratikkale.biz" src="my-gif.gif" height="250" margin="0 auto 0 auto">
-
 <h2><img src="https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif" height="60">  About me</h2>
 <p>
   <a href="https://www.linkedin.com/in/pratik-kale135" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
