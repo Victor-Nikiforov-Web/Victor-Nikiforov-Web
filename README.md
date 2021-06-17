@@ -1,6 +1,7 @@
 
-<img href="https://pratikkale.biz" src="my-gif.gif" height="250" margin="0 auto 0 auto">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github+page+!)](https://git.io/typing-svg)
+
+<img href="https://pratikkale.biz" src="my-gif.gif" height="250" margin="0 auto 0 auto">
 <hr>
 <h2><img src="https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif" height="60">  About me</h2>
 <p>
