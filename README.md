@@ -1,7 +1,6 @@
 
 
 <p align="center">
-<img href="https://pratikkale.biz" src="logo.png" height="350" width="80%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github+page+!)](https://git.io/typing-svg)
 </p>
